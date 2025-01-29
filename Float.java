@@ -7,6 +7,7 @@ float a=sc.nextFloat();
 float b=sc.nextFloat();
 int x=Math.round(a*100);
 int y=Math.round(b*100);
+// the values are initialized
 System.out.print(x);
 System.out.print(y);
 if(x==y){
