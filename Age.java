@@ -19,5 +19,6 @@ System.out.print("Senior");
 else{
 System.out.print("Please enter the age above 0");
 }
+sc.close();
 }
 }
