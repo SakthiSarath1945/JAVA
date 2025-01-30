@@ -5,11 +5,11 @@ public class Largestsmallest{
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first number:");
         int a=sc.nextInt();
-        System.out.println("Enter th second number:");
+        System.out.println("Enter the second number:");
         int b=sc.nextInt();
-        System.out.println("Enter th third number:");
+        System.out.println("Enter the third number:");
         int c=sc.nextInt();
-        System.out.println("Enter th fourth number:");
+        System.out.println("Enter the fourth number:");
         int d=sc.nextInt();
         
     int largest=a;
